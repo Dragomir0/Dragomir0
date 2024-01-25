@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,docker,cpp,neovim,latex,bash,github,markdown,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,docker,neovim,latex,bash,github,markdown,linux,git" />
 </p>
 
 I ❤️ creating extraordinary web experiences. 
