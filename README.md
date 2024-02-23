@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,docker,neovim,latex,bash,github,markdown,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,bash,github,git,linux" />
 </p>
 
-I ❤️ creating extraordinary web experiences. 
+- 🔭 I’m currently working on graduating from university
 
 Learn more about me from my [portfolio website](https://www.dragomirm.dev/). 😊
 
