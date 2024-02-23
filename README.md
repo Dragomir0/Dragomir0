@@ -3,7 +3,7 @@
 </p>
 
 - 🔭 I’m currently working on graduating from university
-
-Learn more about me from my [portfolio website](https://www.dragomirm.dev/). 😊
+- 🌱 I’m currently learning Python and Rust
+-  Learn more about me from my [portfolio website](https://www.dragomirm.dev/). 😊
 
 </p>
