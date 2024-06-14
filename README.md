@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java, typescript, react,bash,github,git,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,typescript,react,bash,github,git,linux" />
 </p>
 
 - 🔭 I’m currently working on personal projects
