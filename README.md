@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on personal projects
   
-- 🌱 I’m learning Typescript currently
+- 🌱 I’m learning C++ currently
   
 -  Learn more about me from my [website](https://www.dragomirm.dev/)
   
