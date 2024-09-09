@@ -7,5 +7,6 @@
 - 🌱 I’m learning C++ currently
   
 -  Learn more about me from my [website](https://www.dragomirm.dev/)
-  
+
+- 🤝 I am continually open to all forms of collaborative opportunities.
 </p>
