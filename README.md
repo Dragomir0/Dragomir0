@@ -3,12 +3,11 @@
    <img align="center" width="300" height="169" src="https://user-images.githubusercontent.com/77747704/170804049-584d6818-1f80-4073-bbba-563e02a3fcd2.png" alt="Hello">
 </div>
 
-Hello there! I'm Dragomir, a student from Canada 🇨🇦
+I'm Dragomir, currently a student in Computer Science at UQAM 🇨🇦
 
 #### About Me
 
-- ❤️ I love to code projects that solve the little problems in life
-- 📚 Studying Software Engineering at UQAM
+- ❤️ Love coding projects that solve problems or that I find interesting
 - 🌱 I’m learning Java and React currently
   
 -  Learn more about me from my [website](https://www.dragomir.me/)
