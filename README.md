@@ -11,7 +11,7 @@ Hello there! I'm Dragomir, a student from Canada 🇨🇦
 - 📚 Studying Software Engineering at UQAM
 - 🌱 I’m learning Java and React currently
   
--  Learn more about me from my [website](https://www.dragomirm.dev/)
+-  Learn more about me from my [website](https://www.dragomir.me/)
 
 #### Toolbox
 
