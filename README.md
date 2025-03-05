@@ -4,9 +4,7 @@
 </div>
 
 I'm Dragomir, currently a student in Computer Science at UQAM 🇨🇦
-
-#### About Me
--  Learn more about me from my [website](https://www.dragomir.me/)
+Learn more about me from my [website](https://www.dragomir.me/)
 
 #### Toolbox
 
