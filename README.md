@@ -6,10 +6,6 @@
 I'm Dragomir, currently a student in Computer Science at UQAM 🇨🇦
 
 #### About Me
-
-- ❤️ Love coding projects that solve problems or that I find interesting
-- 🌱 I’m learning Java and React currently
-  
 -  Learn more about me from my [website](https://www.dragomir.me/)
 
 #### Toolbox
