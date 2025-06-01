@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋 I'm Dragomir Mihai</h1>
 
-# 💫 About Me:
-I am a third-year computer engineering student at UQAM, passionate about exploring the realms of coding and building robust applications.
-
 ## 🚀 What I'm Up To
 - 🤖 Exploring Machine Learning
 - 💻 Building Spring Boot applications with PostgreSQL
