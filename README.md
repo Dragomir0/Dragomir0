@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋 I'm Dragomir Mihai</h1>
+<h1 align="center">Hi 👋 I'm Dragomir</h1>
 
 ## 🚀 What I'm Up To
-- 🤖 Exploring Machine Learning
-- 💻 Building Spring Boot applications with PostgreSQL
+- 🤖 Exploring Machine Learning and Parallel Programming
+- 💻 Building Spring Boot applications
 
 Check out my coding [portfolio!](https://dragomir.me/)
 ## 🌐 Connect with me:
