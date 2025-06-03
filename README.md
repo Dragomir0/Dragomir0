@@ -4,7 +4,7 @@
 - 🤖 Exploring Machine Learning and Parallel Programming
 - 💻 Building Spring Boot applications
 
-Check out my coding [portfolio!](https://dragomir.me/)
+Check out my [portfolio!](https://dragomir.me/)
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dragomir-mihai/)
 
