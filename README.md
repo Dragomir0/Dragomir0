@@ -1,5 +1,3 @@
-<h1 align="center">Dragomir Mihai 🚀🚀</h1>
-
 ## 💫 About me:
 Check out my [portfolio!](https://dragomir.me/)
 
