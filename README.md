@@ -1,9 +1,9 @@
-## 💫 About me:
-Check out my [portfolio!](https://dragomir.me/)
+# 💫 About me:
+Hi! My name is Dragomir. I'm currently studying Computer Science at UQAM in Montreal. I'm particularly interesed in backend development and embedded development. I'm always excited to learn a new technical skill.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dragomir-mihai/)
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 Languages: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
