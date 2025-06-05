@@ -1,7 +1,8 @@
 <h1 align="center">Dragomir Mihai 🚀🚀</h1>
 
-## 🚀 What I'm Up To
+## 💫 About me:
 Check out my [portfolio!](https://dragomir.me/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dragomir-mihai/)
 
 ## 💻 Tech Stack:
