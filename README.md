@@ -1,5 +1,5 @@
 # 💫 About me:
-Hi! My name is Dragomir. I'm particularly interesed in backend development and cloud. I'm always excited to learn a new technical skill.
+Hi! I'm particularly interesed in backend development and cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dragomir-mihai/)
 
