@@ -2,4 +2,4 @@
 
 **Thanks for stopping by my GitHub profile—it’s great to connect!**
 
-Focusing on learning more about backend and cloud infrastructures.
+Currently focusing on learning more about backend and cloud infrastructures.
