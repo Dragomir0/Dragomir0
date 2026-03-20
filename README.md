@@ -1,5 +1,6 @@
 ### Hi there 🙋🏻, I'm Dragomir
 
-**Thanks for stopping by my GitHub profile—it’s great to connect!**
+**Thanks for stopping by my GitHub profile!**
 
-Currently focusing on learning more about backend and cloud infrastructures.
+Currently learning more about backend and cloud infrastructures.
+For any inquiries, contact me at dragomirm2001@gmail.com!
