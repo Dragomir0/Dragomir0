@@ -1,6 +1,4 @@
-### Hi there 🙋🏻, I'm Dragomir
-
-**Thanks for stopping by my GitHub profile!**
+### Hi there 🙋🏻
 
 Currently learning more about backend and cloud infrastructures.
 
